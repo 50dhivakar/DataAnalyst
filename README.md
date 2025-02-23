@@ -8,9 +8,11 @@ Education
 MBA - Finance | Anna University
 B.Com | Ramakrishna Mission Vivekananda College
 
-Work Experience Data Analyst @ Philips Global Business Services LLP, Chennai (April 2019 - Present)
+Work Experience 
+Data Analyst @ Philips Global Business Services LLP, Chennai (April 2019 - Present)
 
-About Me A passionate Data Analyst with expertise in Power BI, Visual Basic for Applications (VBA) Macros, and SQL. Transforming raw data into actionable insights and creating visually appealing dashboards.
+About Me 
+A passionate Data Analyst with expertise in Power BI, Visual Basic for Applications (VBA) Macros, and SQL. Transforming raw data into actionable insights and creating visually appealing dashboards.
 
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 25+ dashboard performance in hyper-realistic and benfits to organization.
 
@@ -36,4 +38,3 @@ Data warehouse & ETL Specialist using MS-SQL, SSIS & Power BI [Excelgoodies]
 Business Reporting Specialist using Python & Power BI [Excelgoodies]
 
 Data Analyst Dasboard
-
