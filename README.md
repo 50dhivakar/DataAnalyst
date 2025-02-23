@@ -21,7 +21,7 @@ Conducted data collection, processing, and analysis for novel study evaluating t
 Automation and Simplification (Projects)
 
 User Access Dashboard Description: 
-        Developed an interactive User Access dashboard using Power BI to track Users status in organization. 
+	Developed an interactive User Access dashboard using Power BI to track Users status in organization. 
 Skills Used: 
         Power BI, Data Modeling, DAX
 
